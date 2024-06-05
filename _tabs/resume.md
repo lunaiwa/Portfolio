@@ -98,17 +98,35 @@ order: 1
 <h3><a href="https://github.com/Codemaxxers">Code Maxxers - 2024</a></h3>
 Codemaxxers is a web-based RPG game we made for Del Norte Highschool's APCSP, APCSA, and CSSE classes. Our goal was to make an interactive way that current and future classes could learn while having fun. We have a single-player mode that emphasizes our Pokemon inspired fight. Our multiplayer mode is meant for friends to prove who is the better coder.
 
+<h4>What I Learned:</h4> 
+- Making a 2d bit game, making multiplayer games
+
+
 <h3><a href="https://github.com/rachit-j/ww3">WW3 - 2024</a></h3>
 This is a card game application that allows users to play against each other on the same device. The cards are randomly sorted using any sort. Users can also see a visualized fibonacci sequence.
+
+<h4>What I Learned:</h4> 
+- 
 
 <h3><a href="https://github.com/lunaiwa/A.A.">Athlete Appetite - 2023</a></h3>
 Athlete Appetite is a website for busy athletes to quickly determine what nutritious meal they should make next. Considering the individual's desired cuisine, personal diet, and time available to make food, we provide personalized recommendations to satisfy their hunger.
 
+<h4>What I Learned:</h4> 
+- 
+
 <h3><a href="https://github.com/codecouturebaddies/codec">Code Couture - 2023</a></h3>
-This is a dressup game application that allows users to dress up characters, share their characters, and save their progress. The game includes an interactive story feature and was developed using CSS, JavaScript, Markdown (MD), and various images. All the assets used in the game were created by me.<
+This is a dressup game application that allows users to dress up characters, share their characters, and save their progress. The game includes an interactive story feature and was developed using CSS, JavaScript, Markdown (MD), and various images. All the assets used in the game were created by me.
+
+<h4>What I Learned:</h4> 
+- introduction into making games
+- most inspired period > really enjoyed creating this game
+- introduction to making own assets and creating 2D pixel games
+- worked a lot more on animation and Ui design on this game
+- worked with Ness.css to make the Ui more fluent and matching
 
 <h3>CarHub - 2023</h3>
 
+<h4>What I Learned:</h4> 
 
 
 

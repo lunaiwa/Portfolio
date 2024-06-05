@@ -2,13 +2,14 @@
 
 - type: github
   icon: "fab fa-github"
+  url: "https://github.com/lunaiwa?ocid=AIDcmmcwpj1e5v_SEM__k_CjwKCAjww_iwBhApEiwAuG6ccMUY21f4ZFgMssXplteJIEqDsBvGo22Bz5BEUbz8eLgki_1odABpJhoCdwgQAvD_BwE_k_"
 
 # - type: twitter
 #   icon: "fa-brands fa-x-twitter"
 
 - type: email
   icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+  url: "lunaiwazaki@gmail.com"
 
 # - type: rss
 #   icon: "fas fa-rss"
@@ -21,7 +22,7 @@
 #
 - type: linkedin
   icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
-  url: "https://www.linkedin.com/in/rachit-jaiswal-a534b5196/" # Fill with your Linkedin homepage
+  url: "www.linkedin.com/in/luna-i-45a17b294" # Fill with your Linkedin homepage
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
